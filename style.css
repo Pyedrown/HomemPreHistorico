@@ -1,0 +1,51 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+.titulo {
+    font-size: 20px;
+    text-align: center;
+}
+
+.imagem {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+#historia {
+    font-size: 30px;
+    text-align: center;
+}
+
+.tamanhoAutomatico {
+    max-width: 400px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+}
+
+#conversa {
+    font-size: 25px;
+    color: black;
+}
+
+.stanley {
+    background-color: rgb(255, 229, 181);
+    border-left-width: 20px;
+    border-left-style: solid;
+    border-left-color: orange;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.bob {
+    background-color: lightgreen;
+    border-left-width: 20px;
+    border-left-style: solid;
+    border-left-color: green;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
